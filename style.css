@@ -1,0 +1,61 @@
+body {
+    background-image: url(estrelas-e-galaxia-espaco-sideral-ceu-noite-universo-preto_146539-811.webp);
+    color: rgb(179, 59, 227);
+    font: normal 20pt Arial;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    
+}
+
+.foto {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.texto {
+    text-align: center;
+    padding: 40px;
+}
+
+input#pergunta {
+    width: 500px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.botão{
+    text-align: center;
+}
+
+input#prever {
+ background-color: purple;
+ border-radius: 100%;
+ color: black;
+ width: 130px;
+ height: 50px;
+ font-style: normal;
+ font-size: 25px;
+ font-family: cursive;
+ 
+}
