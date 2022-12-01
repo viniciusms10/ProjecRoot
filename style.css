@@ -40,7 +40,7 @@ input#pergunta {
     font-family: cursive;
     font-size: 20px;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 100px;
 }
 
 
@@ -58,4 +58,14 @@ input#prever {
  font-size: 25px;
  font-family: cursive;
  
+}
+
+.resp {
+    text-align: center;
+    font-family: cursive;
+}
+
+p#res {
+    margin-top: auto;
+    font-size: 40px;
 }

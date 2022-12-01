@@ -21,10 +21,16 @@
             <input type="text" name="pergunta" placeholder="Digite aqui sua pergunta..." id="pergunta">
         </div>
 
+        <div class="resp">
+            <p id="res"></p>
+        </div>
+
         <div class="botão">
-            <input type="button" value="Prever" id="prever">
+            <input type="button" value="Prever" id="prever" onmouseenter="entrar()" onmouseout="sair()" onclick="clicar()">
         </div>
     </section>
+
+    <script src="script.js"></script>
     
 
 </body>
